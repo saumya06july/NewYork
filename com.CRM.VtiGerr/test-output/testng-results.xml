@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-18T03:29:07 IST" name="Default suite" finished-at="2023-11-18T03:29:54 IST" duration-ms="47812">
+    <groups>
+      <group name="regression">
+        <method signature="CreateContactTest.verifyContactOrganisation()[pri:0, instance:com.Vtiger.Organisation.CreateContactTest@5f049ea1]" name="verifyContactOrganisation" class="com.Vtiger.Organisation.CreateContactTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="CreateContactTest.verifyContactOrganisation()[pri:0, instance:com.Vtiger.Organisation.CreateContactTest@5f049ea1]" name="verifyContactOrganisation" class="com.Vtiger.Organisation.CreateContactTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-11-18T03:29:07 IST" name="Default test" finished-at="2023-11-18T03:29:54 IST" duration-ms="47812">
+      <class name="com.Vtiger.Organisation.CreateContactTest">
+        <test-method is-config="true" signature="comfog_Bs()[pri:0, instance:com.Vtiger.Organisation.CreateContactTest@5f049ea1]" started-at="2023-11-18T03:29:07 IST" name="comfog_Bs" finished-at="2023-11-18T03:29:07 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comfog_Bs -->
+        <test-method is-config="true" signature="config_Bc()[pri:0, instance:com.Vtiger.Organisation.CreateContactTest@5f049ea1]" started-at="2023-11-18T03:29:08 IST" name="config_Bc" finished-at="2023-11-18T03:29:14 IST" duration-ms="5891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_Bc -->
+        <test-method is-config="true" signature="config_Bm()[pri:0, instance:com.Vtiger.Organisation.CreateContactTest@5f049ea1]" started-at="2023-11-18T03:29:14 IST" name="config_Bm" finished-at="2023-11-18T03:29:23 IST" duration-ms="9242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_Bm -->
+        <test-method signature="verifyContactOrganisation()[pri:0, instance:com.Vtiger.Organisation.CreateContactTest@5f049ea1]" started-at="2023-11-18T03:29:23 IST" name="verifyContactOrganisation" finished-at="2023-11-18T03:29:50 IST" duration-ms="27390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactOrganisation -->
+        <test-method is-config="true" signature="Config_Am()[pri:0, instance:com.Vtiger.Organisation.CreateContactTest@5f049ea1]" started-at="2023-11-18T03:29:50 IST" name="Config_Am" finished-at="2023-11-18T03:29:54 IST" duration-ms="3315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Config_Am -->
+        <test-method is-config="true" signature="config_BC()[pri:0, instance:com.Vtiger.Organisation.CreateContactTest@5f049ea1]" started-at="2023-11-18T03:29:54 IST" name="config_BC" finished-at="2023-11-18T03:29:54 IST" duration-ms="779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BC -->
+        <test-method is-config="true" signature="config_AS()[pri:0, instance:com.Vtiger.Organisation.CreateContactTest@5f049ea1]" started-at="2023-11-18T03:29:55 IST" name="config_AS" finished-at="2023-11-18T03:29:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AS -->
+      </class> <!-- com.Vtiger.Organisation.CreateContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
